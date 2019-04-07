@@ -1,28 +1,28 @@
-# Founders Programme 2 Documentation
+# Founders Programme 2 Documentation 
 
 
-## Project One - Commons / Network City
-*April 8, 2019 - May 3, 2019*
+## Project One - Commons / Network City 
+*April 8, 2019 - May 3, 2019* <br />
 
-Design / Protyping : 08.04.19 - 12.04.19
-Sprint 1 : 15.04.19 - 26.04.19
-Bugs / Stretch goals : 29.04.19 - 3.05.19
+Design / Protyping : 08.04.19 - 12.04.19 <br />
+Sprint 1 : 15.04.19 - 26.04.19 <br />
+Bugs / Stretch goals : 29.04.19 - 3.05.19 <br />
 
 Tentative handover: Monday, May 6, 2019
 
 ### Team:
 Please see issues for user manuals!
 
-*Haneen E.Shahwan*
+*Haneen E.Shahwan* <br />
 @hshahwan
 
-*Ali Haj Ahmed*
+*Ali Haj Ahmed* <br />
 @ali-7
 
-*Kristina-Talisa Jaggard* 
+*Kristina-Talisa Jaggard* <br />
 @teenie-quaggard
 
-*Oliver Smith-Wellnitz*
+*Oliver Smith-Wellnitz* <br />
 @oliversw
 
 

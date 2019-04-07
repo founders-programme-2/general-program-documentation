@@ -11,7 +11,7 @@ Bugs / Stretch goals : 29.04.19 - 3.05.19 <br />
 Tentative handover: Monday, May 6, 2019
 
 ### Team:
-Please see issues for user manuals!
+[Please see issues in separate user-manuals repo for team user manuals](https://github.com/founders-programme-2/user-manuals/tree/master)
 
 *Haneen E.Shahwan* <br />
 @hshahwan

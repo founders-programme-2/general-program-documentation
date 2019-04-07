@@ -1,1 +1,0 @@
-# A place to store our Howl team user manuals

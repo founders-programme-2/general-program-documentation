@@ -1,1 +1,0 @@
-# A place to store our Commons team user manuals

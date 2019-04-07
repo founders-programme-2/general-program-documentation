@@ -2,9 +2,9 @@
 
 ## London Participants
 
-*Kristina-Talisa Jaggard* 
+*Kristina-Talisa Jaggard* : 
 @teenie-quaggard
 
-*Oliver Smith-Wellnitz* 
+*Oliver Smith-Wellnitz* : 
 @oliversw
 

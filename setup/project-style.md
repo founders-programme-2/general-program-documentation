@@ -1,9 +1,9 @@
-# Project Style/Process Guide
-
 ## Overview:
+
 This issue is intended to document for our current processes within this project. Once everyone agrees on the document, contents should only be changed once discussed with and agreed by the whole team.
 
 ## Contents:
+
 - [Linting](#Linting)
 - [Naming Branches](#Naming-Branches)
 - [Commit messages](#Commit-Messages)
@@ -11,19 +11,21 @@ This issue is intended to document for our current processes within this project
 - [Merging Pull Requests](#Merging-Pull-Requests)
 
 ## Linting
+
 - To begin with, we would suggest using eslint with the airbnb style guide configuration for easy setup (to be done on one computer and added to project file)
 - Further edits to the linter configuration file can be discussed, agreed on, and documented here.
 
-
 ## Naming Branches
+
 - feature/fix convention
-    - E.g. ```feature/add-search-function``` or ```fix/change-searchbar-color```
+  - E.g. `feature/add-search-function` or `fix/change-searchbar-color`
 
 ## Commit Messages
+
 - Should include issue #
-- Written with 'imperative tone' to describe what a commit does, rather than what it did. 
-    - E.g. ```Change color of search bar``` instead of ```Changed/changes color of search bar```
-    
+- Written with 'imperative tone' to describe what a commit does, rather than what it did.
+  - E.g. `Change color of search bar` instead of `Changed/changes color of search bar`
+
 ## Pre Pull Request Checklist
 
 - [ ] **Branch is up to date with master**
@@ -56,4 +58,3 @@ This issue is intended to document for our current processes within this project
 ## Merging Pull Requests
 
 - The person that made the pull request is responsible for the final merge, but only after someone else from the team has reviewed, approved, and left a comment on the pull request to that affect
-

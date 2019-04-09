@@ -1,4 +1,5 @@
 # Tech For Better Project Process
+
 - An update on process-outline1.0 for Founders Programme 2
 
 This outlines the overall recommended process for each Tech For Better (TFB) project. This is an ongoing process and open to iteration as further projects are delivered.
@@ -8,8 +9,8 @@ This outlines the overall recommended process for each Tech For Better (TFB) pro
 The following steps must take place before the project can begin
 
 - Project is to be selected from the TFB applicant backlog
-- Potential PO must have attended at least the ‘Discovery’ workshop
-- TFB London participants to host a ‘Definition’ workshop with the potential POs. 
+- Potential PO must have attended at least the [‘Discovery’ workshop](https://docs.google.com/presentation/d/1mW-O6DXU1HPS66gpfcO4peR1yBKlpowIS4zJKZlBbK8/edit#slide=id.g1e792c6c39_0_0)
+- TFB London participants to host a [‘Definition’ workshop](https://docs.google.com/presentation/d/1sHa-q5WrDiDP53ob-AVAKBKAFO5SOz2d6Z3XVDITza0/edit) with the potential POs.
 
 edit: It is highly recommended that the definition workshop is completed before the first day of the Founders Programme
 
@@ -52,29 +53,27 @@ For marketing purposes and also for the funders of the project, it is important 
 
 ### Timings
 
-The project takes place over 4 working weeks. Working times can vary but generally they are (all times in GMT):
+The project takes place over 4 working weeks. Working times can vary but generally they are (all times in GMT and subject to change):
 
-- London: Monday to Friday 10am to 6pm
-
-    edit: for T4B2 we work 10:30am - 6:30pm
+- London: Monday to Friday 10:30am to 6:30pm
 
 - Gaza: Sunday to Thursday 6am to 2pm
-- Team stand up: Monday to Thursday at 10am
+- Team stand up: Monday to Thursday at 11am
 
-    edit: stand-ups at 11am for 1st project (Commons)
-          stand-up times for 2nd project (HOWL) tba due to time difference issue
+  edit: stand-ups at 11am for 1st project (Commons)
+  stand-up times for 2nd project (HOWL) tba due to time difference issue
 
 - Weekly retrospective: Thursday at 10.30am (straight after the stand up)
 
-    edit: weekly retrospective at 11:30am for Commons
+  edit: weekly retrospective at 11:30am for Commons
 
 - Code Sharing (Thurs at 11ish, after the retro)
 
-    edit: between 12-1 for Commmons
+  edit: between 12-1 for Commmons
 
 - One or more members present on something the others would like to learn or know about in the code base. This is a great way to learn throughout.
 - Daily Stand Up Log:
-- This is an Issue that you create in each project repo with the idea that everyone at the end of each day writes up what they did, what they plan to do and any blockers. This means there’s less issues with the team stand up happening midday Gaza time. 
+- This is an Issue that you create in each project repo with the idea that everyone at the end of each day writes up what they did, what they plan to do and any blockers. This means there’s less issues with the team stand up happening midday Gaza time.
 
 ### Schedule
 

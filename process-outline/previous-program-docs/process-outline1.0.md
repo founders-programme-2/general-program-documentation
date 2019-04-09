@@ -1,4 +1,5 @@
 # Tech For Better Project Process
+
 - Created by Joe & Simon of T4B1
 
 This outlines the overall recommended process for each Tech For Better (TFB) project. This is an ongoing process and open to iteration as further projects are delivered.
@@ -8,8 +9,8 @@ This outlines the overall recommended process for each Tech For Better (TFB) pro
 The following steps must take place before the project can begin
 
 - Project is to be selected from the TFB applicant backlog
-- Potential PO must have attended at least the ‘Discovery’ workshop
-- TFB London participants to host a ‘Definition’ workshop with the potential POs
+- Potential PO must have attended at least the [‘Discovery’ workshop](https://docs.google.com/presentation/d/1mW-O6DXU1HPS66gpfcO4peR1yBKlpowIS4zJKZlBbK8/edit#slide=id.g1e792c6c39_0_0)
+- TFB London participants to host a [‘Definition’ workshop](https://docs.google.com/presentation/d/1sHa-q5WrDiDP53ob-AVAKBKAFO5SOz2d6Z3XVDITza0/edit) with the potential POs
 - Once selected, all TFB participants have a 2-hour meeting without PO. In this meeting:
   London participants to provide and present a slide deck taking the Gaza participants through the project, including the problem, defined solution so far and potential scope discussed
 - All participants to fully understand the project and agree the general scope they are comfortable with in this meeting
